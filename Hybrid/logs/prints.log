@@ -1,1 +1,113 @@
-
+08:35:18.999 [main] INFO  Test.TC010 - TC010 is running
+08:35:20.032 [main] INFO  Test.TC010 - kids bookshelf is selected
+08:35:20.401 [main] INFO  Test.TC010 - new arrival is selected
+08:35:21.493 [main] INFO  Test.TC010 - product is selected
+08:35:22.761 [main] INFO  Test.TC010 - Kylee Bookshelf Cum Storage Unit
+08:36:47.880 [main] INFO  Test.TC010 - TC010 is running
+08:36:48.872 [main] INFO  Test.TC010 - kids bookshelf is selected
+08:36:49.249 [main] INFO  Test.TC010 - new arrival is selected
+08:36:50.351 [main] INFO  Test.TC010 - product is selected
+08:36:51.339 [main] INFO  Test.TC010 - Kylee Bookshelf Cum Storage Unit
+08:36:51.461 [main] INFO  Test.TC010 - 17499.0
+08:37:15.460 [main] INFO  Test.TC001 - TC001 is running
+08:37:25.948 [main] INFO  Test.TC001 - Username is entered
+08:37:26.009 [main] INFO  Test.TC001 - password is entered
+08:37:26.956 [main] INFO  Test.TC001 - valid login
+08:37:30.376 [main] INFO  Test.TC001 - TC001 is running
+08:37:41.267 [main] INFO  Test.TC001 - Username is entered
+08:37:41.327 [main] INFO  Test.TC001 - password is entered
+08:37:42.105 [main] INFO  Test.TC001 - invalid login
+08:37:45.227 [main] INFO  Test.TC002 - TC002 is running
+08:37:55.730 [main] INFO  Test.TC002 - enter username
+08:37:55.790 [main] INFO  Test.TC002 - enter password
+08:37:56.768 [main] INFO  Test.TC002 - clicked on login
+08:37:57.997 [main] INFO  Test.TC002 - selected a product
+08:37:59.259 [main] INFO  Test.TC002 - Added to wishlist
+08:37:59.933 [main] INFO  Test.TC002 - Twain Study Table
+08:38:00.179 [main] INFO  Test.TC002 - Removed from wishlist
+08:38:03.663 [main] INFO  Test.TC003 - TC003 is running
+08:38:07.113 [main] INFO  Test.TC003 - product1 is selected
+08:38:09.779 [main] INFO  Test.TC003 - product1 is added in cart
+08:38:22.552 [main] INFO  Test.TC004 - TC004 is running
+08:38:23.602 [main] INFO  Test.TC004 - Clicked on searchbutton
+08:38:23.915 [main] INFO  Test.TC004 - Sorted from high to low
+08:38:26.272 [main] INFO  Test.TC004 - product1 is selected
+08:38:27.623 [main] INFO  Test.TC004 - Product2 is selected
+08:38:28.707 [main] INFO  Test.TC004 - Clicked on compare
+08:38:30.735 [main] INFO  Test.TC004 - (75-book capacity)
+08:38:30.757 [main] INFO  Test.TC004 - (55-book capacity)
+08:38:33.762 [main] INFO  Test.TC005 - TC003 is running
+08:38:37.401 [main] INFO  Test.TC005 - feature is selected
+08:38:39.638 [main] INFO  Test.TC005 - material is selected
+08:38:41.820 [main] INFO  Test.TC005 - finish is selected
+08:38:44.018 [main] INFO  Test.TC005 - size is selected
+08:38:44.036 [main] INFO  Test.TC005 - Number of products:(3 Products)
+08:38:44.065 [main] INFO  Test.TC005 - Tyra Storage Bed
+08:38:44.089 [main] INFO  Test.TC005 - Sandon Storage Bed
+08:38:44.111 [main] INFO  Test.TC005 - Scott Storage Bed
+08:38:47.129 [main] INFO  Test.TC006 - TC006 is running
+08:38:47.245 [main] INFO  Test.TC006 - Gaming Chair is searched
+08:38:48.546 [main] INFO  Test.TC006 - Price limit is selected
+08:38:50.579 [main] INFO  Test.TC006 - Number of products:(7 Products)
+08:38:50.609 [main] INFO  Test.TC006 - Bunny Gaming Chair
+08:38:50.634 [main] INFO  Test.TC006 - Kerensa Gaming Chair
+08:38:50.658 [main] INFO  Test.TC006 - Eldwin Gaming Chair
+08:38:50.680 [main] INFO  Test.TC006 - Chele Gaming Chair
+08:38:50.703 [main] INFO  Test.TC006 - Allson Gaming Chair
+08:38:50.724 [main] INFO  Test.TC006 - Butler Gaming Chair
+08:38:50.746 [main] INFO  Test.TC006 - Hailea Gaming Chair
+08:38:53.695 [main] INFO  Test.TC007 - TC007 is running
+08:38:56.287 [main] INFO  Test.TC007 - Urban Ladder Experience Centre - Bandra
+08:38:56.344 [main] INFO  Test.TC007 - address is verified
+08:38:56.368 [main] INFO  Test.TC007 - email is verified
+08:39:00.097 [main] INFO  Test.TC008 - TC008 is running
+08:39:05.290 [main] INFO  Test.TC008 - wooden sofa is selected
+08:39:05.685 [main] INFO  Test.TC008 - price sorted from low to high
+08:39:05.710 [main] INFO  Test.TC008 - Number of products:(57 Products)
+08:39:07.544 [main] INFO  Test.TC008 - product is selected
+08:39:09.365 [main] INFO  Test.TC008 - Idaho Low Wooden Sofa (Rust)
+08:39:09.537 [main] INFO  Test.TC008 - Price:?24,996
+08:39:12.623 [main] INFO  Test.TC009 - TC009 is running
+08:39:14.385 [main] INFO  Test.TC009 - Navigated to page1
+08:39:15.240 [main] INFO  Test.TC009 - Navigated to page2
+08:39:16.390 [main] INFO  Test.TC009 - Navigated to page3
+08:39:16.471 [main] INFO  Test.TC009 - Navigated to page4
+08:39:18.869 [main] INFO  Test.TC009 - (2 Products)
+08:39:21.963 [main] INFO  Test.TC010 - TC010 is running
+08:39:23.061 [main] INFO  Test.TC010 - kids bookshelf is selected
+08:39:23.490 [main] INFO  Test.TC010 - new arrival is selected
+08:39:24.579 [main] INFO  Test.TC010 - product is selected
+08:39:25.512 [main] INFO  Test.TC010 - Kylee Bookshelf Cum Storage Unit
+08:39:25.717 [main] INFO  Test.TC010 - 17499.0
+08:40:22.739 [main] INFO  Test.TC003 - TC003 is running
+08:40:25.860 [main] INFO  Test.TC003 - product1 is selected
+08:40:29.359 [main] INFO  Test.TC003 - product1 is added in cart
+08:40:31.683 [main] INFO  Test.TC003 - product2 is selected
+08:40:34.487 [main] INFO  Test.TC003 - product2 is added in cart
+08:42:03.360 [main] INFO  Test.TC003 - TC003 is running
+08:42:05.636 [main] INFO  Test.TC003 - product1 is selected
+08:42:08.667 [main] INFO  Test.TC003 - product1 is added in cart
+08:42:10.599 [main] INFO  Test.TC003 - product2 is selected
+08:42:13.536 [main] INFO  Test.TC003 - product2 is added in cart
+09:05:20.931 [main] INFO  Test.TC004 - TC004 is running
+09:05:22.204 [main] INFO  Test.TC004 - Clicked on searchbutton
+09:05:22.543 [main] INFO  Test.TC004 - Sorted from high to low
+09:07:28.440 [main] INFO  Test.TC004 - TC004 is running
+09:07:29.350 [main] INFO  Test.TC004 - Clicked on searchbutton
+09:07:29.691 [main] INFO  Test.TC004 - Sorted from high to low
+09:07:57.514 [main] INFO  Test.TC004 - TC004 is running
+09:07:58.756 [main] INFO  Test.TC004 - Clicked on searchbutton
+09:07:59.078 [main] INFO  Test.TC004 - Sorted from high to low
+09:08:02.427 [main] INFO  Test.TC004 - product1 is selected
+09:08:03.761 [main] INFO  Test.TC004 - Product2 is selected
+09:08:04.853 [main] INFO  Test.TC004 - Clicked on compare
+09:08:06.900 [main] INFO  Test.TC004 - (75-book capacity)
+09:08:06.925 [main] INFO  Test.TC004 - (55-book capacity)
+09:08:29.791 [main] INFO  Test.TC004 - TC004 is running
+09:08:30.660 [main] INFO  Test.TC004 - Clicked on searchbutton
+09:08:31.016 [main] INFO  Test.TC004 - Sorted from high to low
+09:08:35.410 [main] INFO  Test.TC004 - product1 is selected
+09:08:36.764 [main] INFO  Test.TC004 - Product2 is selected
+09:08:37.866 [main] INFO  Test.TC004 - Clicked on compare
+09:08:39.904 [main] INFO  Test.TC004 - (75-book capacity)
+09:08:39.930 [main] INFO  Test.TC004 - (55-book capacity)

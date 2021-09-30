@@ -1,136 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="11" passed="10" failed="1" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-09-27T09:36:20 IST" name="Suite" finished-at="2021-09-27T09:38:30 IST" duration-ms="129681">
+  <suite started-at="2021-09-30T09:08:26 IST" name="Default suite" finished-at="2021-09-30T09:08:40 IST" duration-ms="13721">
     <groups>
     </groups>
-    <test started-at="2021-09-27T09:36:20 IST" name="Test" finished-at="2021-09-27T09:38:30 IST" duration-ms="129681">
-      <class name="Test.GamingChair">
-        <test-method signature="gamingChair()[pri:0, instance:Test.GamingChair@388526fb]" started-at="2021-09-27T09:36:55 IST" name="gamingChair" finished-at="2021-09-27T09:37:02 IST" duration-ms="6781" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- gamingChair -->
-      </class> <!-- Test.GamingChair -->
-      <class name="Test.Navigate">
-        <test-method signature="navigate()[pri:0, instance:Test.Navigate@6138e79a]" started-at="2021-09-27T09:36:29 IST" name="navigate" finished-at="2021-09-27T09:36:36 IST" duration-ms="6999" status="FAIL">
-          <exception class="java.util.NoSuchElementException">
-            <full-stacktrace>
-              <![CDATA[java.util.NoSuchElementException
-at java.base/java.util.LinkedHashMap$LinkedHashIterator.nextNode(LinkedHashMap.java:760)
-at java.base/java.util.LinkedHashMap$LinkedKeyIterator.next(LinkedHashMap.java:780)
-at Test.Navigate.navigate(Navigate.java:48)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)
-at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-at java.base/java.lang.reflect.Method.invoke(Method.java:564)
-at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:134)
-at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:597)
-at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
-at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
-at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:816)
-at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
-at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
-at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
-at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
-at org.testng.TestRunner.privateRun(TestRunner.java:766)
-at org.testng.TestRunner.run(TestRunner.java:587)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)
-at org.testng.SuiteRunner.run(SuiteRunner.java:286)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1187)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1109)
-at org.testng.TestNG.runSuites(TestNG.java:1039)
-at org.testng.TestNG.run(TestNG.java:1007)
-at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-]]>
-            </full-stacktrace>
-          </exception> <!-- java.util.NoSuchElementException -->
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- navigate -->
-      </class> <!-- Test.Navigate -->
-      <class name="Test.WishList">
-        <test-method signature="wishlist()[pri:0, instance:Test.WishList@2dcd168a]" started-at="2021-09-27T09:36:36 IST" name="wishlist" finished-at="2021-09-27T09:36:55 IST" duration-ms="19252" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- wishlist -->
-      </class> <!-- Test.WishList -->
-      <class name="Test.DoubleBed">
-        <test-method signature="doublebed()[pri:0, instance:Test.DoubleBed@7803bfd]" started-at="2021-09-27T09:37:14 IST" name="doublebed" finished-at="2021-09-27T09:37:27 IST" duration-ms="13306" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- doublebed -->
-      </class> <!-- Test.DoubleBed -->
-      <class name="Test.BookShelf">
-        <test-method signature="bookshelf()[pri:0, instance:Test.BookShelf@42bc14c1]" started-at="2021-09-27T09:37:27 IST" name="bookshelf" finished-at="2021-09-27T09:37:37 IST" duration-ms="10244" status="PASS">
+    <test started-at="2021-09-30T09:08:26 IST" name="Default test" finished-at="2021-09-30T09:08:40 IST" duration-ms="13721">
+      <class name="Test.TC004">
+        <test-method signature="bookshelf()[pri:0, instance:Test.TC004@a87f8ec]" started-at="2021-09-30T09:08:26 IST" name="bookshelf" finished-at="2021-09-30T09:08:40 IST" duration-ms="13687" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- bookshelf -->
-      </class> <!-- Test.BookShelf -->
-      <class name="Test.Login">
-        <test-method signature="login(java.lang.String, java.lang.String)[pri:0, instance:Test.Login@531f4093]" started-at="2021-09-27T09:37:38 IST" name="login" data-provider="getdata" finished-at="2021-09-27T09:37:52 IST" duration-ms="14500" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[datatesting288@gmail.com]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[Testing@288]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- login -->
-        <test-method signature="login(java.lang.String, java.lang.String)[pri:0, instance:Test.Login@531f4093]" started-at="2021-09-27T09:37:52 IST" name="login" data-provider="getdata" finished-at="2021-09-27T09:38:07 IST" duration-ms="15009" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[invalidusername@gmail.com]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[Testing]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- login -->
-      </class> <!-- Test.Login -->
-      <class name="Test.Stores">
-        <test-method signature="stores()[pri:0, instance:Test.Stores@2ea6e30c]" started-at="2021-09-27T09:36:20 IST" name="stores" finished-at="2021-09-27T09:36:29 IST" duration-ms="8311" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- stores -->
-      </class> <!-- Test.Stores -->
-      <class name="Test.WoodenSofa">
-        <test-method signature="woodenSofa()[pri:0, instance:Test.WoodenSofa@21a21c64]" started-at="2021-09-27T09:37:02 IST" name="woodenSofa" finished-at="2021-09-27T09:37:14 IST" duration-ms="11391" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- woodenSofa -->
-      </class> <!-- Test.WoodenSofa -->
-      <class name="Test.KidsBookShelf">
-        <test-method signature="kidsbookShelf()[pri:0, instance:Test.KidsBookShelf@6436a7db]" started-at="2021-09-27T09:38:22 IST" name="kidsbookShelf" finished-at="2021-09-27T09:38:30 IST" duration-ms="8567" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- kidsbookShelf -->
-      </class> <!-- Test.KidsBookShelf -->
-      <class name="Test.Cart">
-        <test-method signature="addtocart()[pri:0, instance:Test.Cart@62ef27a8]" started-at="2021-09-27T09:38:07 IST" name="addtocart" finished-at="2021-09-27T09:38:22 IST" duration-ms="14305" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- addtocart -->
-      </class> <!-- Test.Cart -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+      </class> <!-- Test.TC004 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>

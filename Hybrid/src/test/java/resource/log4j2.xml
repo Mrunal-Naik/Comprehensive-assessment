@@ -13,34 +13,34 @@
     </Console>
   </Appenders>
   <Loggers>
-      <Logger name="Test.BookShelf" level="info" additivity="false">
+      <Logger name="Test.TC004" level="info" additivity="false">
       <AppenderRef ref="File"/>
     </Logger>
-    <Logger name="Test.Cart" level="info" additivity="false">
+    <Logger name="Test.TC003" level="info" additivity="false">
       <AppenderRef ref="File"/>
     </Logger>
-    <Logger name="Test.DoubleBed" level="info" additivity="false">
+    <Logger name="Test.TC005" level="info" additivity="false">
       <AppenderRef ref="File"/>
     </Logger>
-    <Logger name="Test.GamingChair" level="info" additivity="false">
+    <Logger name="Test.TC006" level="info" additivity="false">
       <AppenderRef ref="File"/>
     </Logger>
-    <Logger name="Test.KidsBookShelf" level="info" additivity="false">
+    <Logger name="Test.TC010" level="info" additivity="false">
       <AppenderRef ref="File"/>
     </Logger>
-    <Logger name="Test.Login" level="info" additivity="false">
+    <Logger name="Test.TC001" level="info" additivity="false">
       <AppenderRef ref="File"/>
     </Logger>
-    <Logger name="Test.Navigate" level="info" additivity="false">
+    <Logger name="Test.TC009" level="info" additivity="false">
       <AppenderRef ref="File"/>
     </Logger>
-    <Logger name="Test.Stores" level="info" additivity="false">
+    <Logger name="Test.TC007" level="info" additivity="false">
       <AppenderRef ref="File"/>
     </Logger>
-    <Logger name="Test.WishList" level="info" additivity="false">
+    <Logger name="Test.TC002" level="info" additivity="false">
       <AppenderRef ref="File"/>
     </Logger>
-    <Logger name="Test.WoodenSofa" level="info" additivity="false">
+    <Logger name="Test.TC008" level="info" additivity="false">
       <AppenderRef ref="File"/>
     </Logger>
   </Loggers>

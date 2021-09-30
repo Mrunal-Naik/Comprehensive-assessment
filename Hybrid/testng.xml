@@ -7,16 +7,17 @@
   </listeners>
   <test thread-count="5" name="Test">
     <classes>
-      <class name="Test.Stores"/>
-      <class name="Test.Navigate"/>
-      <class name="Test.WishList"/>
-      <class name="Test.GamingChair"/>
-      <class name="Test.WoodenSofa"/>
-      <class name="Test.DoubleBed"/>
-      <class name="Test.BookShelf"/>
-      <class name="Test.Login"/>
-      <class name="Test.Cart"/>
-      <class name="Test.KidsBookShelf"/>
+      <class name="Test.TC001"/>
+      <class name="Test.TC002"/>
+      <class name="Test.TC003"/>
+      <class name="Test.TC004"/>
+      <class name="Test.TC005"/>
+      <class name="Test.TC006"/>
+      <class name="Test.TC007"/>
+      <class name="Test.TC008"/>
+      <class name="Test.TC009"/>
+      <class name="Test.TC010"/>
+      
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
